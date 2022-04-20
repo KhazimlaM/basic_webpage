@@ -1,0 +1,31 @@
+.header {
+    background-color: #e63838;
+    margin: none;
+    height: 80px;
+      }
+      .h-heading{
+    color: antiquewhite;
+      }
+  
+      footer {
+          background-color: #e63838;
+          height: 80px;
+  
+      }
+  
+      footer p {
+          color: antiquewhite;
+      }
+      .table {
+    background-color: #e63838;
+      }
+      .table th {
+    color: antiquewhite;
+      }
+      .table td {
+    color: antiquewhite;
+      }
+      .name {
+          padding-left: 40%;
+        
+      }
